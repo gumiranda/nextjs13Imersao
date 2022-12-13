@@ -1,0 +1,5 @@
+docker-compose up
+onde parou 21:08
+
+imersao11:
+27:25
