@@ -1,5 +1,6 @@
 docker-compose up
-onde parou 21:08
-
+docker-compose exec app bash 
+onde parou 26:18
 imersao11:
 27:25
+yarn add @mui/material @emotion/react @emotion/styled @emotion/cache @emotion/server @next/font @mui/icons-material  --network-timeout 1000000000
